@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto';
+  min-height: 100vh;
+}
+.main-heading {
+  color: #2b237c;
+  font-size: 26px;
+  font-weight: bold;
+}
+.4.0-para {
+  color: #0967d2;
+  font-size: 30px;
+  font-weight: bold;
+}

@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.course-container {
+  background-color: white;
+  padding: 10px;
+}
+.tittle-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #171f46;
+  font-size: 20px;
+  font-weight: bold;
+}
+.duration-container {
+  display: flex;
+  align-items: center;
+}
+.clock {
+  height: 15px;
+  width: 15px;
+  color: #171f46;
+}
+.duration {
+  color: #171f46;
+  font-size: 15px;
+}
+.description {
+  color: #1e293b;
+  font-size: 13px;
+}
+.ul-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.li-el {
+  color: #1e293b;
+  padding: 6px;
+  margin: 5px;
+  border-radius: 8px;
+  list-style-type: none;
+  background-color: gray;
+}
